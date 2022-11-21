@@ -9,8 +9,6 @@ Depois criei uma conta no Github, meu primeiro repositório com nome Aprendendo_
 Então dentro dessa pasta monitorada criei esse primeiro_arquivo.txt, usei o comando git add, para colocar no estagio de envio.
 Após usar esse comando git add, usei o comando git status para verificar como meu arquivo estava, em seguida realizarei o Commit: git commit -m "primeiro_arquivo.txt" 
 para enfim aparecer no servidor do GitHub. 
-Para enviar esse Commit para o GitHub usei o comando git push -u origin master copiei o código lá do repositório: git add origin link do repositório. 
-Em seguida realizei a autenticação para subir o arquivo para o GitHub.
-
+Para enviar esse Commit para o GitHub usei o comando git push -u origin main copiei o código lá do repositório: git add origin link do repositório. 
 
  
