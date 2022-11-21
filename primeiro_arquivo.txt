@@ -1,0 +1,16 @@
+Meu aprendizado de Git e seus principais comandos
+
+Embarquei nessa jornada no dia 07/11/2022, tenho aprendido bastante sobre esse mundo novo da tecnologia, conheci várias ferramentas muito úteis; VSCode, Git, Github enfim...
+Porém aqui irei citar um breve relato sobre meu aprendizado de Git e seus comandos principais que utilizei nesse primeiro projeto.
+Git é o software de controle de versão de arquivos usado na maioria dos projetos de desenvolvimento atualmente.
+Entendi que quando falamos sobre vasgas de emprego é necessário termos um repositório/portifólio.
+Consegui criar meu primeiro repositório através de linhas de comando usando o Git Bash, realizei a configuração do Git com meu nome e e-mail. 
+Depois criei uma conta no Github, meu primeiro repositório com nome Aprendendo_Git3, em seguida abri meu Git Bash, realizei o comando git init para criar um repositório do Git na minha pasta de projetos.
+Então dentro dessa pasta monitorada criei esse primeiro_arquivo.txt, usei o comando git add, para colocar no estagio de envio.
+Após usar esse comando git add, usei o comando git status para verificar como meu arquivo estava, em seguida realizarei o Commit: git commit -m "primeiro_arquivo.txt" 
+para enfim aparecer no servidor do GitHub. 
+Para enviar esse Commit para o GitHub usei o comando git push -u origin master copiei o código lá do repositório: git add origin link do repositório. 
+Em seguida realizei a autenticação para subir o arquivo para o GitHub.
+
+
+ 
